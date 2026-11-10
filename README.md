@@ -25,7 +25,7 @@ Developed & Maintained by **[Hamyartop (همیارتاپ)](https://hamyartop.com
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/docker-mongodb-backup-restore.git
+git clone git clone https://github.com/hamyartopcom/docker-mongodb-backup-restore.git
 cd docker-mongodb-backup-restore
 chmod +x mongo_backup.sh restore_mongo.sh
 ```
